@@ -1,4 +1,4 @@
-class code1
+class Code1
 {
     public static void main()
     {
